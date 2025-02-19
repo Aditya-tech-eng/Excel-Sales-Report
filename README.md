@@ -1,6 +1,6 @@
 # Excel-Sales-Report
 
-This is my excel data for my Aditya Store.
+This is the excel data for Aditya Store.
 
 ![image](https://github.com/user-attachments/assets/a61cde1b-3793-427f-8848-7ee05956b1b2)
 
