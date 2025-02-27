@@ -40,7 +40,7 @@ Your sales data reveals some strong trends:
 ![image](https://github.com/user-attachments/assets/cfd74e15-c59c-4dfd-aeed-36a41eae34f9)
 ![image](https://github.com/user-attachments/assets/57db8e0f-3e88-4e3c-95f3-953c4488a8f1)
 ![image](https://github.com/user-attachments/assets/86f9155b-7235-47b7-aa89-167626504ac3)
-![image](https://github.com/user-attachments/assets/21a59a1e-891f-4027-92fd-6834b209f34a)
+![image](https://github.com/user-attachments/assets/31a695f0-07cc-4cf8-be01-00db13ee94b3)
 
 
 
