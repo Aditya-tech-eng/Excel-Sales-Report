@@ -37,3 +37,10 @@ Your sales data reveals some strong trends:
 **Dominant Channels:** Given the high contribution from Amazon, Flipkart, and Myntra, ensure these channels are optimized. Maintain strong product visibility, competitive pricing, and excellent customer service on these platforms. Explore exclusive deals or promotions through these channels.
 
 **Diversification** : While the existing channels are performing well, explore diversifying your sales channels to reduce reliance on just three platforms. Consider your own website, social commerce, or expanding to other marketplaces.
+![image](https://github.com/user-attachments/assets/cfd74e15-c59c-4dfd-aeed-36a41eae34f9)
+![image](https://github.com/user-attachments/assets/57db8e0f-3e88-4e3c-95f3-953c4488a8f1)
+![image](https://github.com/user-attachments/assets/86f9155b-7235-47b7-aa89-167626504ac3)
+![image](https://github.com/user-attachments/assets/21a59a1e-891f-4027-92fd-6834b209f34a)
+
+
+
